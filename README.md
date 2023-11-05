@@ -13,9 +13,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-![ME1](img/ME1.png)
-![ME2](img/ME2.png)
-![ME3](img/ME3.png)
-![ME4](img/ME4.png)
-![ME5](img/ME5.png)
-![ME6](img/ME6.png)
+![ME1](https://github.com/MathExpansion/.github/blob/4d0ccc5de39c9073c9ae9574f45bdbe19954abe4/img/ME1.jpg)
+![ME2](https://github.com/MathExpansion/.github/blob/4d0ccc5de39c9073c9ae9574f45bdbe19954abe4/img/ME2.jpg)
+![ME3](https://github.com/MathExpansion/.github/blob/4d0ccc5de39c9073c9ae9574f45bdbe19954abe4/img/ME3.jpg)
+![ME4](https://github.com/MathExpansion/.github/blob/4d0ccc5de39c9073c9ae9574f45bdbe19954abe4/img/ME4.jpg)
+![ME5](https://github.com/MathExpansion/.github/blob/4d0ccc5de39c9073c9ae9574f45bdbe19954abe4/img/ME5.jpg)
+![ME6](https://github.com/MathExpansion/.github/blob/4d0ccc5de39c9073c9ae9574f45bdbe19954abe4/img/ME6.jpg)
